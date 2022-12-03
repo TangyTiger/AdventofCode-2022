@@ -3,7 +3,7 @@ temp = 0
 myList = []
 
 
-with open("input.txt", 'r') as data_file:
+with open("Day 1\input.txt", 'r') as data_file:
     for line in data_file:
         data = line.split()
         #print(data)

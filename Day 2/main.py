@@ -1,6 +1,6 @@
 total = 0
 
-with open("input.txt", 'r') as data_file:
+with open("Day 2\input.txt", 'r') as data_file:
     for line in data_file:
         data = line.split()
         print(data)
